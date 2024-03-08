@@ -1,7 +1,7 @@
 # The micro-benchmark of Avro vs Json serialization
 A simple example of serialization head to head comparison
 
-According to results Avro outporforms Json in serialization/deserialization speed by 2 times
+According to results Avro outperforms Json in serialization/deserialization speed by 2 times
 
 ```
 1 mln s/d json time 5633 ms
